@@ -52,5 +52,4 @@ This project showcases how **data visualization and analytics** can help insuran
 Contact
 
 **Created by:** [Priya Dakhore]  
-**LinkedIn:** [your LinkedIn link]  
-**GitHub:** [your GitHub link]
+**LinkedIn:** [linkedin.com/in/priyadakhore]  
